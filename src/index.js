@@ -1,3 +1,3 @@
-import * as repoDesiplay from "./second.js";
+import repoDisplay from "./js/repoContainer.js";
 
-repoDesiplay.log("test");
+repoDisplay();
